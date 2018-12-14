@@ -1,0 +1,9 @@
+C:\VSSolutions\NSubstituteDemo\Calculator.Domain\bin\Debug\netcoreapp2.1\Calculator.Domain.deps.json
+C:\VSSolutions\NSubstituteDemo\Calculator.Domain\bin\Debug\netcoreapp2.1\Calculator.Domain.dll
+C:\VSSolutions\NSubstituteDemo\Calculator.Domain\bin\Debug\netcoreapp2.1\Calculator.Domain.pdb
+C:\VSSolutions\NSubstituteDemo\Calculator.Domain\obj\Debug\netcoreapp2.1\Calculator.Domain.csprojAssemblyReference.cache
+C:\VSSolutions\NSubstituteDemo\Calculator.Domain\obj\Debug\netcoreapp2.1\Calculator.Domain.csproj.CoreCompileInputs.cache
+C:\VSSolutions\NSubstituteDemo\Calculator.Domain\obj\Debug\netcoreapp2.1\Calculator.Domain.AssemblyInfoInputs.cache
+C:\VSSolutions\NSubstituteDemo\Calculator.Domain\obj\Debug\netcoreapp2.1\Calculator.Domain.AssemblyInfo.cs
+C:\VSSolutions\NSubstituteDemo\Calculator.Domain\obj\Debug\netcoreapp2.1\Calculator.Domain.dll
+C:\VSSolutions\NSubstituteDemo\Calculator.Domain\obj\Debug\netcoreapp2.1\Calculator.Domain.pdb

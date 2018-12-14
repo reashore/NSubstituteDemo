@@ -1,0 +1,14 @@
+C:\VSSolutions\NSubstituteDemo\Calculator.UI\bin\Debug\netcoreapp2.1\Calculator.UI.deps.json
+C:\VSSolutions\NSubstituteDemo\Calculator.UI\bin\Debug\netcoreapp2.1\Calculator.UI.runtimeconfig.json
+C:\VSSolutions\NSubstituteDemo\Calculator.UI\bin\Debug\netcoreapp2.1\Calculator.UI.runtimeconfig.dev.json
+C:\VSSolutions\NSubstituteDemo\Calculator.UI\bin\Debug\netcoreapp2.1\Calculator.UI.dll
+C:\VSSolutions\NSubstituteDemo\Calculator.UI\bin\Debug\netcoreapp2.1\Calculator.UI.pdb
+C:\VSSolutions\NSubstituteDemo\Calculator.UI\bin\Debug\netcoreapp2.1\Calculator.Domain.dll
+C:\VSSolutions\NSubstituteDemo\Calculator.UI\bin\Debug\netcoreapp2.1\Calculator.Domain.pdb
+C:\VSSolutions\NSubstituteDemo\Calculator.UI\obj\Debug\netcoreapp2.1\Calculator.UI.csprojAssemblyReference.cache
+C:\VSSolutions\NSubstituteDemo\Calculator.UI\obj\Debug\netcoreapp2.1\Calculator.UI.csproj.CoreCompileInputs.cache
+C:\VSSolutions\NSubstituteDemo\Calculator.UI\obj\Debug\netcoreapp2.1\Calculator.UI.AssemblyInfoInputs.cache
+C:\VSSolutions\NSubstituteDemo\Calculator.UI\obj\Debug\netcoreapp2.1\Calculator.UI.AssemblyInfo.cs
+C:\VSSolutions\NSubstituteDemo\Calculator.UI\obj\Debug\netcoreapp2.1\Calculator.UI.csproj.CopyComplete
+C:\VSSolutions\NSubstituteDemo\Calculator.UI\obj\Debug\netcoreapp2.1\Calculator.UI.dll
+C:\VSSolutions\NSubstituteDemo\Calculator.UI\obj\Debug\netcoreapp2.1\Calculator.UI.pdb
